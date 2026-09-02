@@ -18,12 +18,6 @@ CodeWall deploys AI agents that continuously attack your infrastructure, chain r
 
 We don't follow checklists. Our agents reason like attackers — mapping your attack surface, forming hypotheses, adapting mid-run, and proving what's exploitable with reproducible proof-of-concept exploits. Not theoretical risk scores. Not scanner noise.
 
-### Open Source
-
-| Repo | Description |
-|------|-------------|
-| [benchmarks](https://github.com/codewall-ai/benchmarks) | Fork of XBOW's 104 benchmarks with 13 additional benchmarks for AI/LLM apps, multi-step exploitation, and cloud misconfigs. Dockerized, flag-based. |
-
 ### Research
 
 | Post | TL;DR |
